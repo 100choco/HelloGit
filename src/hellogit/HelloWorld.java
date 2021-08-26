@@ -12,9 +12,9 @@ public class HelloWorld {
 		System.out.println("module_B start");
 		
 		System.out.println("충돌 해결~~ ㅎㅎ");
-		
 
 		System.out.println("github 연동 시작");
+		
 		System.out.println("로컬에서 추가");
 		System.out.println("remote 에서 수정");
 
@@ -23,10 +23,6 @@ public class HelloWorld {
 	private static void test() {
 		System.out.println("새모듈 작업 완성~~~!!!");
 		System.out.println("머지 완료~~~~~~");
-		
-	
-		
-	
 	}
 
 }
