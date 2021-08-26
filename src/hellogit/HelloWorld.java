@@ -18,6 +18,8 @@ public class HelloWorld {
 		System.out.println("머지 완료~~~~~~");
 		
 		System.out.println("충돌 해결~~ ㅎㅎ");
+		
+		System.out.println("github 연동 시작");
 	}
 
 }
